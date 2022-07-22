@@ -1,0 +1,29 @@
+.card {
+  background-color: hsl(216, 50%, 16%);
+  width: 20%;
+  height: 424px;
+  margin: 75px auto 0px;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 3px 6px 14px hsl(215deg 32% 27%);
+}
+.avatar {
+  width: 238px;
+  height: 54%;
+  display: block;
+  margin: 18px auto 0px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.head {
+  color: hsl(0, 0%, 100%);
+}
+.email {
+  font-weight: 400;
+  color: hsl(178, 100%, 50%);
+  font-size: 14px;
+}
+.email a {
+  color: hsl(178, 100%, 50%);
+  text-decoration: none;
+}
